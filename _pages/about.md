@@ -19,7 +19,11 @@ redirect_from:
 <h2 class="about-me-heading">
 Education
 </h2>
-Text
+**Stanford University**, Palo Alto, CA.
+
+M.S., Electrical Engineering, matriculating September 2025.
+
+**University of California, Los Angeles** (UCLA), Los Angeles, CA.
 
 <h2 class="about-me-heading">
 Work Experience
