@@ -25,6 +25,8 @@ M.S., Electrical Engineering, matriculating September 2025.
 
 **University of California, Los Angeles** (UCLA), Los Angeles, CA.
 
+
+
 <h2 class="about-me-heading">
 Work Experience
 </h2>
