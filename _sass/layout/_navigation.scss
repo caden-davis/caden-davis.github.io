@@ -442,3 +442,21 @@
     }
   }
 }
+
+@media screen and (max-width: 768px) {
+  .greedy-nav a {
+    margin: 0 0.5rem;     // default is 1rem
+    padding: 0.3rem 0;     // tighten top/bottom space
+    font-size: 1rem;
+  }
+
+  .greedy-nav button {
+    padding: 0 0.3rem;
+    height: 2rem;
+  }
+
+  .greedy-nav .navicon {
+    width: 16px;
+    height: 12px;
+  }
+}
