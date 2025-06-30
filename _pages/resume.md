@@ -9,7 +9,7 @@ author_profile: true
 
 {% include base_path %}
 
-<object
+<!-- <object
   data="{{ '/files/resume.pdf' | relative_url }}"
   type="application/pdf"
   width="100%"
@@ -18,4 +18,10 @@ author_profile: true
     Your browser doesn’t support embedded PDFs.
     You can <a href="{{ '/files/resume.pdf' | relative_url }}">download it here</a>.
   </p>
-</object>
+</object> -->
+
+<iframe
+  src="{{ '/files/resume.pdf' | relative_url }}"
+  width="100%"
+  height="90vh">
+</iframe>
