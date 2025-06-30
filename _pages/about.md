@@ -10,9 +10,9 @@ redirect_from:
 <div class="about-me-flex">
   <img src="/images/profile5.jpg" alt="My photo" class="about-me-photo">
   <div class="about-me-text">
-    <p>I'm an incoming M.S./Ph.D. student in Electrical and Computer Engineering at The University of Texas at Austin (UT Austin). I am advised by Professors Gustavo de Veciana and Kaushik Chowdhury. Within UT Austin's ECE department, I'm in the Decision, Information, and Communications Engineering (DICE) track and the Wireless Networking and Communications Group (WNCG).</p>
-    <p>I just graduated with my B.S. in Electrical Engineering at University of California, Los Angeles (UCLA) in Spring 2025. There, I worked in the Cognitive Reconfigurable Embedded Systems (CORES) Lab, under Professor Danijela Cabric. I focused on network-level optimization of Internet of Things (IoT) systems.</p>
-    <p>Starting at UT Austin in Fall 2025, I'm looking forward to explore wireless networks further, including resource allocation algorithms for Open Radio Access Networks.</p>
+    <p>I'm an incoming M.S. student in Electrical Engineering at Stanford University. Within Stanford's EE department, I am split between the Communications & Networking track and the Signal Processing & Optimization track.</p>
+    <p>I graduated with my B.S. in Electrical Engineering at University of California, Los Angeles (UCLA) in Spring 2025. As an upperclassman, I worked in the Wireless Lab under Professor Ian Roberts. I focused on signal processing for mmWave wireless communication. In particular, I dove into RF impairment correction as well as joint communication and sensing (JCAS or ISAC) on real-world mmWave phased array hardware.</p>
+    <p>Starting at Stanford University in Fall 2025, I'm looking forward to exploring optimization methods to enhance the performance of modern wireless communication systems and extend their applications.</p>
   </div>
 </div>
 
@@ -93,22 +93,10 @@ Medical Device Engineering Intern, Spinal Imaging Team
 - List
 - List
 
-<h2 class="about-me-heading">
-Coursework
-</h2>
-Text
-
-<h2 class="about-me-heading">
-Future Plans
-</h2>
-Text
-
 <!-- Sections:
 About Me (Intro) + Contact Info (for Mobile)
 Education
-Work Experience
-Classes (Break into tracks)
-What's Next? (Future plans) -->
+Work Experience -->
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
