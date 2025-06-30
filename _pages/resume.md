@@ -19,7 +19,7 @@ redirect_from:
   /* mobile: narrower than 768px */
   @media only screen and (max-width: var(--sidebar-bp)) {
     .resume-embed iframe {
-      height: 60vh;
+      height: 60vh !important;
     }
   }
 </style>
