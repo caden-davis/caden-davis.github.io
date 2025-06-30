@@ -60,6 +60,18 @@
   }
 }
 
+@media screen and (max-width: $sidebar-screen-min-width) {
+  .initial-content {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+  }
+
+  .sidebar {
+    margin-top: 0 !important;
+    padding-top: 0.25em !important;
+  }
+}
+
 .sidebar__right {
   margin-bottom: 1em;
 
