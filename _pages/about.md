@@ -19,26 +19,26 @@ redirect_from:
 
 <div class="about-me-heading">
 Education
-</div>
 ======
+</div>
 Text
 
 <div class="about-me-heading">
 Work Experience
-</div>
 ======
+</div>
 Text
 
 <div class="about-me-heading">
 Coursework
+=====
 </div>
-======
 Text
 
 <div class="about-me-heading">
-Future Plans
-</div>
+# Future Plans
 ======
+</div>
 Text
 
 <!-- Sections:
