@@ -108,7 +108,7 @@
   img {
     max-width: 175px;
     // border-radius: 50%;
-    border-radius: 25%;
+    border-radius: 40%;
     // border-radius: 10px;
 
     @include breakpoint($large) {
@@ -205,9 +205,9 @@
   position: absolute;
   right: 0;
   // margin-top: 15px;
-  padding: 10px;
+  // padding: 10px;
   margin-top: 0px;
-  // padding: 0px;
+  padding: 0px;
   list-style-type: none;
   border: 1px solid var(--global-border-color);
   border-radius: $border-radius;
@@ -230,7 +230,7 @@
     display: block;
     content: "";
     position: absolute;
-    top: -11px;
+    // top: -11px;
     left: calc(50% - 10px);
     width: 0;
     border-style: solid;
@@ -247,7 +247,7 @@
     display: block;
     content: "";
     position: absolute;
-    top: -10px;
+    // top: -10px;
     left: calc(50% - 10px);
     width: 0;
     border-style: solid;
