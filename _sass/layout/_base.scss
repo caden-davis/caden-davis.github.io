@@ -24,6 +24,15 @@ body {
   }
 }
 
+@media screen and (max-width: $sidebar-screen-min-width) {
+  // Pull everything up closer to the masthead
+  body {
+    /* choose a value that matches your masthead’s real height
+       (≈48 px is common); use rem if you prefer */
+    padding-top: 0 !important;
+  }
+}
+
 h1, h2, h3, h4, h5, h6 {
   margin: 2em 0 0.5em;
   line-height: 1.2;

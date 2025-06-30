@@ -24,10 +24,10 @@
     padding-top: $masthead-height;
   }
 
-  @media screen and (max-width: $sidebar-screen-min-width) {
-  .sidebar {
-    margin-top: 0 !important;
-  }
+  // @media screen and (max-width: $sidebar-screen-min-width) {
+  // .sidebar {
+  //   margin-top: 0 !important;
+  // }
 }
 
   @include breakpoint($large) {
