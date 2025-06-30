@@ -10,9 +10,11 @@ redirect_from:
 <div class="about-me-flex">
   <img src="/images/profile5.jpg" alt="My photo" class="about-me-photo">
   <div class="about-me-text">
-    <p>I'm an incoming M.S. student in Electrical Engineering at Stanford University. Within Stanford's EE department, I am split between the Communications & Networking track and the Signal Processing & Optimization track.</p>
-    <p>I graduated with my B.S. in Electrical Engineering at University of California, Los Angeles (UCLA) in Spring 2025. As an upperclassman, I worked in the Wireless Lab under Professor Ian Roberts. I focused on signal processing for mmWave wireless communication. In particular, I dove into RF impairment correction as well as joint communication and sensing (JCAS or ISAC) on real-world mmWave phased array hardware.</p>
-    <p>Starting at Stanford University in Fall 2025, I'm looking forward to exploring optimization methods to enhance the performance of modern wireless communication systems and extend their applications.</p>
+    <p>I'm an incoming M.S. student in Electrical Engineering at Stanford University. Within Stanford's EE department, I am split between the Communications &amp; Networking track and the Signal Processing &amp; Optimization track.</p>
+    
+    <p>I graduated with my B.S. in Electrical Engineering at University of California, Los Angeles (UCLA) in Spring 2025. As an upperclassman, I worked in the Wireless Lab under Professor Ian Roberts, focusing on signal processing for millimeter-wave (mmWave) wireless communication. In particular, I dove into RF impairment correction as well as joint communication and sensing (JCAS or ISAC) on real-world mmWave phased array hardware.</p>
+
+    <p>Starting at Stanford University in Fall 2025, I'm looking forward to exploring methods from optimization and statistical inference to enhance the performance of modern wireless communication systems and extend their applications.</p>
   </div>
 </div>
 
