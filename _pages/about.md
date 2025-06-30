@@ -47,7 +47,7 @@ Cellular RF Software Intern, Cellular Firmware Team
 
 **UCLA Wireless Lab**, Los Angeles, CA \| Fall 2023 - Spring 2025
 
-Undergraduate Researcher, Signal Processing for mmWave Phased Arrays and Software-Defined Radios
+Undergraduate Researcher, mmWave Phased Arrays and Software-Defined Radios
 
 - List
 - List
@@ -68,6 +68,16 @@ Digital Signal Processing Intern, Electronic Warfare Team
 **Anduril Industries**, Costa Mesa, CA \| Summer 2023
 
 Electronic Hardware Intern, Ground Systems Team
+
+- List
+- List
+- List
+
+<br>
+
+**UCLA Networked Embedded Systems Lab (NESL)**, Los Angeles, CA \| Winter 2022 - Summer 2022
+
+Undergraduate Researcher, Underwater Acoustic Communication
 
 - List
 - List
