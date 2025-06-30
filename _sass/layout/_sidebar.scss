@@ -259,6 +259,8 @@
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
+    word-wrap: break-word;       // ensures wrapping inside the link
+    overflow-wrap: break-word;   // modern equivalent
     // max-width: 100%;
   }
 
@@ -275,6 +277,8 @@
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
+    word-wrap: break-word;       // ensures wrapping inside the link
+    overflow-wrap: break-word;   // modern equivalent
     // max-width: 100%;
 
     &:hover {
