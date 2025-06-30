@@ -24,14 +24,6 @@ body {
   }
 }
 
-// On screens where the sidebar collapses into a top bar
-@media screen and (max-width: $sidebar-screen-min-width) {
-  // Pull everything up closer to the masthead
-  body {
-    padding-top: 0 !important;
-  }
-}
-
 h1, h2, h3, h4, h5, h6 {
   margin: 2em 0 0.5em;
   line-height: 1.2;

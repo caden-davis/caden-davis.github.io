@@ -60,7 +60,7 @@
   }
 }
 
-@media screen and (max-width: $sidebar-screen-min-width) {
+@media screen and (max-width: $large) {
   .initial-content {
     margin-top: 0 !important;
     padding-top: 0 !important;
