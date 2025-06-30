@@ -445,13 +445,13 @@
 
 @media screen and (max-width: 768px) {
   .greedy-nav a {
-    margin: 0 0.5rem;     // default is 1rem
-    padding: 0.3rem 0;     // tighten top/bottom space
-    font-size: 1rem;
+    margin: 0 0.1rem;     // default is 1rem
+    padding: 0.1rem 0;     // tighten top/bottom space
+    // font-size: 1rem;
   }
 
   .greedy-nav button {
-    padding: 0 0.3rem;
+    padding: 0 0.1rem;
     height: 2rem;
   }
 
