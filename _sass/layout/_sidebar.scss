@@ -244,10 +244,10 @@
   }
 
   li {
-    // white-space: nowrap;
-    white-space: normal; // allow text to wrap
-    word-wrap: break-word; // wrap long words
-    overflow-wrap: break-word;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 100%;
   }
 
   a {
@@ -259,8 +259,6 @@
     color: inherit;
     font-size: $type-size-5;
     text-decoration: none;
-    word-wrap: break-word;       // ensures wrapping inside the link
-    overflow-wrap: break-word;   // modern equivalent
 
     &:hover {
       text-decoration: underline;
