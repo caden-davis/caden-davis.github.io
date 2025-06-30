@@ -35,6 +35,6 @@ redirect_from:
   <iframe
     src="https://docs.google.com/gview?url={{ site.url }}{{ '/files/resume.pdf' | relative_url }}&embedded=true"
     allowfullscreen
-    style="width: 100%; height: 600px; border: none;">
+    style="width: 100%; height: 600px; border: 1px solid var(--global-border-color);">
   </iframe>
 </div>
