@@ -34,9 +34,20 @@ GPA: 4.00 / 4.00, UCLA ECE Outstanding Bachelor of Science Award.
 <h2 class="about-me-heading">
 Work Experience
 </h2>
+
 **Apple**, San Diego, CA \| Summer 2025
 
 Cellular RF Software Intern, Cellular Firmware Team
+
+- List
+- List
+- List
+
+<br>
+
+**UCLA Wireless Lab**, Los Angeles, CA \| Fall 2023 - Spring 2025
+
+Undergraduate Researcher, Signal Processing for mmWave Phased Arrays and Software-Defined Radios
 
 - List
 - List
