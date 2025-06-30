@@ -17,19 +17,27 @@ redirect_from:
 </div>
 
 
-Education {.has-text-centered}
+<div class="about-me-heading">
+Education
+</div>
 ======
 Text
 
-Work Experience {.has-text-centered}
+<div class="about-me-heading">
+Work Experience
+</div>
 ======
 Text
 
-Coursework {.has-text-centered}
+<div class="about-me-heading">
+Coursework
+</div>
 ======
 Text
 
-Future Plans {.has-text-centered}
+<div class="about-me-heading">
+Future Plans
+</div>
 ======
 Text
 
