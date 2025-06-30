@@ -8,12 +8,15 @@
 
 .about-me-flex {
   display: flex;
+  flex-direction: row-reverse;     // ✅ image on right (desktop)
   align-items: flex-start;
   gap: 1rem;
   margin-bottom: 2rem;
 
   @media screen and (max-width: 768px) {
-    flex-direction: column;
+    flex-direction: column;        // ✅ stack on mobile
+    align-items: center;           // ✅ center children including image
+    text-align: center;            // optional: center text
   }
 }
 
@@ -23,8 +26,16 @@
   height: auto;
   border-radius: 8px;
   flex-shrink: 0;
+
+  @media screen and (max-width: 768px) {
+    width: 140px;                  // ✅ shrink image on mobile
+  }
 }
 
 .about-me-text {
   flex: 1;
+
+  @media screen and (max-width: 768px) {
+    text-align: left;              // or keep centered
+  }
 }
