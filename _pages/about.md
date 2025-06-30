@@ -35,10 +35,9 @@ Coursework
 </div>
 Text
 
-<div class="about-me-heading">
-# Future Plans
-======
-</div>
+<h2 class="about-me-heading">
+Future Plans
+</h2>
 Text
 
 <!-- Sections:
