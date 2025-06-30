@@ -24,7 +24,6 @@ Education
 M.S., Electrical Engineering, matriculating September 2025.
 
 <br>
-<br>
 
 **University of California, Los Angeles** (UCLA), Los Angeles, CA.
 
@@ -40,13 +39,11 @@ Work Experience
 Cellular RF Software Intern, Cellular Firmware Team
 
 <br>
-<br>
 
 **Anduril Industries**, Costa Mesa, CA | Summer 2024
 
 Digital Signal Processing Intern, Electronic Warfare Team
 
-<br>
 <br>
 
 **Anduril Industries**, Costa Mesa, CA | Summer 2023
@@ -57,7 +54,6 @@ Electronic Hardware Intern, Ground Systems Team
 - List
 - List
 
-<br>
 <br>
 
 **Viseon**, Irvine, CA | Summer 2021
