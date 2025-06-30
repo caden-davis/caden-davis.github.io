@@ -9,8 +9,24 @@ redirect_from:
 
 {% include base_path %}
 
-<iframe
-  src="https://docs.google.com/gview?url={{ site.url }}{{ '/files/resume.pdf' | relative_url }}&embedded=true"
-  style="width:100%; height:80vh; border:none;"
-  allowfullscreen>
-</iframe>
+<style>
+  /* default for “laptop” and up */
+  .resume-embed iframe {
+    width: 100%;
+    height: 80vh;
+    border: none;
+  }
+  /* mobile: narrower than 768px */
+  @media only screen and (max-width: 768px) {
+    .resume-embed iframe {
+      height: 60vh;
+    }
+  }
+</style>
+
+<div class="resume-embed">
+  <iframe
+    src="https://docs.google.com/gview?url={{ site.url }}{{ '/files/resume.pdf' | relative_url }}&embedded=true"
+    allowfullscreen>
+  </iframe>
+</div>
