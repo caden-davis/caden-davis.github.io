@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <div class="about-me-flex">
-  <img src="/images/profile4.jpg" alt="My photo" class="about-me-photo">
+  <img src="/images/profile5.jpg" alt="My photo" class="about-me-photo">
   <div class="about-me-text">
     <p>Hello! I'm Caden Davis, a signal processing engineer...</p>
     <p>Here's more about my work and research interests...</p>
