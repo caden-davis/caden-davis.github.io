@@ -71,3 +71,10 @@
     font-weight: 700;
   }
 }
+
+@media screen and (max-width: 768px) {
+  .masthead__menu-item {
+    padding: 0 0.2em;          // reduce horizontal space
+    // font-size: 1rem;        // shrink font
+  }
+}
