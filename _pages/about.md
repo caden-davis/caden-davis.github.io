@@ -10,10 +10,28 @@ redirect_from:
 <div class="about-me-flex">
   <img src="/images/profile5.jpg" alt="My photo" class="about-me-photo">
   <div class="about-me-text">
-    <p>Hello! I'm Caden Davis, a signal processing engineer...</p>
-    <p>Here's more about my work and research interests...</p>
+    <p>I'm an incoming M.S./Ph.D. student in Electrical and Computer Engineering at The University of Texas at Austin (UT Austin). I am advised by Professors Gustavo de Veciana and Kaushik Chowdhury. Within UT Austin's ECE department, I'm in the Decision, Information, and Communications Engineering (DICE) track and the Wireless Networking and Communications Group (WNCG).</p>
+    <p>I just graduated with my B.S. in Electrical Engineering at University of California, Los Angeles (UCLA) in Spring 2025. There, I worked in the Cognitive Reconfigurable Embedded Systems (CORES) Lab, under Professor Danijela Cabric. I focused on network-level optimization of Internet of Things (IoT) systems.</p>
+    <p>Starting at UT Austin in Fall 2025, I'm looking forward to explore wireless networks further, including resource allocation algorithms for Open Radio Access Networks.</p>
   </div>
 </div>
+
+
+Education
+======
+Text
+
+Work Experience
+======
+Text
+
+Coursework
+======
+Text
+
+What's Next? My Future Plans
+======
+Text
 
 <!-- Sections:
 About Me (Intro) + Contact Info (for Mobile)
