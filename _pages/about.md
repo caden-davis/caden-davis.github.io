@@ -19,6 +19,10 @@ classes: medium-font
   </div>
 </div>
 
+<div class="about-me-contacts">
+  <p>Contact --- Contact --- Contact</p>
+</div>
+
 <h2 class="about-me-heading">
 Education
 </h2>
