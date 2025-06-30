@@ -35,22 +35,34 @@ GPA: 4.00 / 4.00, UCLA ECE Outstanding Bachelor of Science Award.
 <h2 class="about-me-heading">
 Work Experience
 </h2>
-**Apple**, San Diego, CA
+**Apple**, San Diego, CA | Summer 2025
+
+Cellular RF Software Intern, Cellular Firmware Team
 
 <br>
 <br>
 
-**Anduril Industries**, Costa Mesa, CA
+**Anduril Industries**, Costa Mesa, CA | Summer 2024
+
+Digital Signal Processing Intern, Electronic Warfare Team
 
 <br>
 <br>
 
-**Anduril Industries**, Costa Mesa, CA
+**Anduril Industries**, Costa Mesa, CA | Summer 2023
+
+Electronic Hardware Intern, Ground Systems Team
+
+- List
+- List
+- List
 
 <br>
 <br>
 
-**Viseon**, Irvine, CA
+**Viseon**, Irvine, CA | Summer 2021
+
+Medical Device Engineering Intern, Spinal Imaging Team
 
 <h2 class="about-me-heading">
 Coursework
