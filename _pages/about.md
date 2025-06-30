@@ -16,7 +16,6 @@ redirect_from:
   </div>
 </div>
 
-
 <h2 class="about-me-heading">
 Education
 </h2>
