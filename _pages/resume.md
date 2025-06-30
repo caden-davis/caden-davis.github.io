@@ -10,9 +10,9 @@ redirect_from:
 {% include base_path %}
 
 <iframe
-  src="https://docs.google.com/gview?url={{ site.url }}{{ '/files/Resume.pdf' | relative_url }}&embedded=true"
+  src="https://docs.google.com/gview?url={{ site.url }}{{ '/files/resume.pdf' | relative_url }}&embedded=true"
   width="100%"
-  height="90vh"
+  height="90%"
   frameborder="0"
   style="border:none">
 </iframe>
