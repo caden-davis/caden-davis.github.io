@@ -24,7 +24,7 @@ main:
   #   url: /year-archive/
 
   - title: "About Me"
-    url: /
+    url: /about/
     
   - title: "Resume"
     url: /resume/
