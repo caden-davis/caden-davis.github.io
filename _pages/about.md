@@ -23,14 +23,34 @@ Education
 
 M.S., Electrical Engineering, matriculating September 2025.
 
+<br>
+<br>
+
 **University of California, Los Angeles** (UCLA), Los Angeles, CA.
 
+B.S., Electrical Engineering, graduated June 2025.
 
+GPA: 4.00 / 4.00, UCLA ECE Outstanding Bachelor of Science Award.
 
 <h2 class="about-me-heading">
 Work Experience
 </h2>
-Text
+**Apple**, San Diego, CA
+
+<br>
+<br>
+
+**Anduril Industries**, Costa Mesa, CA
+
+<br>
+<br>
+
+**Anduril Industries**, Costa Mesa, CA
+
+<br>
+<br>
+
+**Viseon**, Irvine, CA
 
 <h2 class="about-me-heading">
 Coursework
