@@ -25,7 +25,7 @@ logo                     : "/images/favicon-512x512.png"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "grad_outfit3.JPEG"
   name             : "Caden N. Davis"
   pronouns         : # example: "she/her"  
   bio              : "Stanford MSEE Student<br>Signal Processing & Wireless Communications"
