@@ -3,6 +3,7 @@
    ========================================================================== */
 
 .masthead {
+  font-family: $global-font-family;
   position: fixed;
   background: var(--global-bg-color);
   height: fit-content;
@@ -28,7 +29,8 @@
     @include container;
     @include clearfix;
     padding: 0.5em 1em;
-    font-family: $sans-serif-narrow;
+    // font-family: $sans-serif-narrow;
+    font-family: $global-font-family;
 
     @include breakpoint($x-large) {
       max-width: $x-large;

@@ -62,7 +62,7 @@ small, .small {
 
 p {
   margin-bottom: 1.3em;
-  font-family: $header-font-family;
+  font-family: $global-font-family;
 }
 
 u,
@@ -72,7 +72,7 @@ ins {
   a {
     color: inherit;
   }
-  font-family: $header-font-family;
+  font-family: $global-font-family;
 }
 
 del a {
