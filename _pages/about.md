@@ -8,12 +8,19 @@ redirect_from:
 ---
 
 <div class="about-me-flex">
-  <img src="/images/profile.jpg" alt="My photo" class="about-me-photo">
+  <img src="/images/grad_outfit1.jpg" alt="My photo" class="about-me-photo">
   <div class="about-me-text">
     <p>Hello! I'm Caden Davis, a signal processing engineer...</p>
     <p>Here's more about my work and research interests...</p>
   </div>
 </div>
+
+<!-- Sections:
+About Me (Intro) + Contact Info (for Mobile)
+Education
+Work Experience
+Classes (Break into tracks)
+What's Next? (Future plans) -->
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
