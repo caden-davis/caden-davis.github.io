@@ -28,9 +28,9 @@ author:
   avatar           : "profile.jpg"
   name             : "Caden N. Davis"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Stanford MSEE Student in Signal Processing and Wireless Communications"
   location         : "San Clemente, CA"
-  employer         : "Stanford University, MSEE"
+  employer         : # "Stanford University, MSEE"
   uri              : # URL
   email            : "cdavis9@stanford.edu" 
 
