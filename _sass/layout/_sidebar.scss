@@ -292,3 +292,12 @@
     }
   }
 }
+
+.author__content p,
+.author__urls-wrapper,
+.author__urls {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+}
