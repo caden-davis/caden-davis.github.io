@@ -74,12 +74,12 @@
 
 @media screen and (max-width: 768px) {
   .masthead__menu-item {
-    padding: 0 0.5em;          // reduce horizontal space
-    font-size: 0.85rem;        // shrink font
+    padding: 0 0.3em;          // reduce horizontal space
+    font-size: 1rem;        // shrink font
   }
 
   .masthead__menu-item--lg {
-    padding-right: 1em;        // reduce right spacing on the title
+    padding-right: 0.5em;        // reduce right spacing on the title
     font-size: 1rem;           // slightly smaller if needed
   }
 
