@@ -17,22 +17,19 @@ redirect_from:
 </div>
 
 
-<div class="about-me-heading">
+<h2 class="about-me-heading">
 Education
-======
-</div>
+</h2>
 Text
 
-<div class="about-me-heading">
+<h2 class="about-me-heading">
 Work Experience
-======
-</div>
+</h2>
 Text
 
-<div class="about-me-heading">
+<h2 class="about-me-heading">
 Coursework
-=====
-</div>
+</h2>
 Text
 
 <h2 class="about-me-heading">
