@@ -17,13 +17,6 @@
   }
 }
 
-@media only screen and (max-width: 768px) {
-  .sidebar > * {
-    margin-top: 0.1em !important;
-    margin-bottom: 0.1em !important;
-  }
-}
-
 .page {
   @include breakpoint($large) {
     @include span(10 of 12 last);
