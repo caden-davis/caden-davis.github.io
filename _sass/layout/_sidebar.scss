@@ -107,8 +107,8 @@
 
   img {
     max-width: 175px;
-    // border-radius: 50%;
-    border-radius: 40%;
+    border-radius: 50%;
+    // border-radius: 40%;
     // border-radius: 10px;
 
     @include breakpoint($large) {
@@ -273,7 +273,8 @@
     display: block;
     margin-bottom: 5px;
     padding-right: 5px;
-    padding-top: 2px;
+    // padding-top: 2px;
+    padding-top: 0px;
     padding-bottom: 2px;
     color: inherit;
     font-size: $type-size-5;
