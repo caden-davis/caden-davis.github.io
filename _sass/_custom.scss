@@ -1,0 +1,30 @@
+/* ==========================================================================
+   CUSTOM
+   ========================================================================== */
+
+/* ==========================================================================
+   CUSTOM
+   ========================================================================== */
+
+.about-me-flex {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+  margin-bottom: 2rem;
+
+  @media screen and (max-width: 768px) {
+    flex-direction: column;
+  }
+}
+
+.about-me-photo {
+  width: 200px;
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  flex-shrink: 0;
+}
+
+.about-me-text {
+  flex: 1;
+}
