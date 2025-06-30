@@ -31,10 +31,10 @@ redirect_from:
   </iframe>
 </div> -->
 
-<div class="resume-embed" style="border: 1px solid var(--global-border-color); border-radius: 4px; padding: 8px;">
+<div class="resume-embed" style="border: 1px solid var(--global-border-color); border-radius: 0px; padding: 0px;">
   <iframe
     src="https://docs.google.com/gview?url={{ site.url }}{{ '/files/resume.pdf' | relative_url }}&embedded=true"
     allowfullscreen
-    style="width: 100%; height: 600px; border: 1px solid var(--global-border-color);">
+    style="width: 100%; height: 600px; border: none;">
   </iframe>
 </div>
