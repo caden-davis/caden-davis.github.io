@@ -7,21 +7,22 @@ author_profile: true
 #   - /cv
 ---
 
-{% include base_path %}
+<!-- {% include base_path %} -->
 
-<!-- <object
+<object
   data="{{ '/files/resume.pdf' | relative_url }}"
   type="application/pdf"
   width="100%"
   height="90vh">
+  <!-- Fallback to an <embed> if the browser doesn’t support <object> PDFs -->
+  <embed
+    src="{{ '/files/resume.pdf' | relative_url }}"
+    type="application/pdf"
+    width="100%"
+    height="90vh" />
+  <!-- Final fallback if neither works -->
   <p>
     Your browser doesn’t support embedded PDFs.
-    You can <a href="{{ '/files/resume.pdf' | relative_url }}">download it here</a>.
+    <a href="{{ '/files/resume.pdf' | relative_url }}">Download the PDF</a>.
   </p>
-</object> -->
-
-<iframe
-  src="{{ '/files/resume.pdf' | relative_url }}"
-  width="100%"
-  height="90vh">
-</iframe>
+</object>
