@@ -293,12 +293,17 @@
   }
 }
 
-.sidebar .author__content {
-  margin-bottom: 0 !important;
-  padding-bottom: 0 !important;
+.author__urls li {
+  margin: 0;
+  padding: 0;
+  line-height: 1.2; /* or 1 if you want it tighter */
+  display: flex; /* ensures consistent height alignment */
+  align-items: center;
 }
 
-.sidebar .author__urls-wrapper {
-  margin-top: 0 !important;
-  padding-top: 0 !important;
+.author__urls a {
+  margin: 0;
+  padding: 0;
+  line-height: 1.2;
+  vertical-align: middle;
 }
