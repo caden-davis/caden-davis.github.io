@@ -260,6 +260,11 @@
     font-size: $type-size-5;
     text-decoration: none;
 
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 100%;
+
     &:hover {
       text-decoration: underline;
     }
