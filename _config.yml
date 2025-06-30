@@ -9,8 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 # site_theme               : "default"
-# site_theme               : "air"
-site_theme               : "plum"
+site_theme               : "air" # Themes don't work I guess
 title                    : "Caden N. Davis"
 title_separator          : "-"
 name                     : &name "Caden N. Davis"
