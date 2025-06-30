@@ -7,8 +7,13 @@
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
           <!-- <li class="masthead__menu-item masthead__menu-item--lg persist"><a href="{{ base_path }}/">{{ site.title }}</a></li> -->
-          <img src="{{ logo }}" alt="Logo" style="height: 28px; vertical-align: middle; margin-right: 8px;">
-          <li class="masthead__menu-item masthead__menu-item--lg persist"><a href="{{ base_path }}/">{{ site.masthead_title }}</a></li>
+          <!-- <li class="masthead__menu-item masthead__menu-item--lg persist"><a href="{{ base_path }}/">{{ site.masthead_title }}</a></li> -->
+          <li class="masthead__menu-item masthead__menu-item--lg persist">
+            <a href="{{ base_path }}/">
+              <img src="{{ site.logo | relative_url }}" alt="Logo" style="height: 24px; vertical-align: middle; margin-right: 8px;">
+              {{ site.masthead_title }}
+            </a>
+          </li>
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
