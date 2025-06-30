@@ -16,8 +16,8 @@ redirect_from:
     height: 80vh;
     border: none;
   }
-  /* mobile: narrower than 1024 px */
-  @media only screen and (max-width: 1024px) {
+  /* mobile: narrower than 925 px */
+  @media only screen and (max-width: 925px) {
     .resume-embed iframe {
       height: 60vh !important;
     }
