@@ -57,8 +57,11 @@
 }
 
 .about-me-contacts {
-  display: false;
-  @media screen and (max-width: 768px) {
-    display: true !important;
-  }
+  display: none; 
 }
+
+@media screen and (max-width: 768px) {
+    .about-me-contacts {
+        display: block !important;
+    }
+  }
