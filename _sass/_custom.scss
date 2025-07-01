@@ -124,3 +124,13 @@ a:focus {
   text-decoration: none;
   opacity: 0.8;
 }
+
+.not-on-mobile {
+    display: block;
+}
+
+@media screen and (max-width: 924px) {
+    .not-on-mobile {
+        display: none !important;
+    }
+}

@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 classes: medium-font
 ---
-<br>
+<br class="not-on-mobile">
 
 <div class="about-me-flex">
   <img src="/images/profile7.jpg" alt="My photo" class="about-me-photo">
