@@ -32,12 +32,8 @@
     // font-family: $sans-serif-narrow;
     font-family: $global-font-family;
 
-    // @include breakpoint($x-large) {
-    //   max-width: $x-large;
-    // }
-
-    @include breakpoint($xx-large) {
-      max-width: $xx-large;
+    @include breakpoint($x-large) {
+      max-width: $x-large;
     }
 
     nav {
