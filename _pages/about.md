@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Caden N. Davis"
 author_profile: false
 redirect_from: 
   - /about/
@@ -20,12 +20,11 @@ classes: medium-font
   </div>
 </div>
 
-<div class="about-me-contacts">
-  <h2 class="about-me-heading">
-  Contact Info
-  </h2>
-  <p>Contact --- Contact --- Contact</p>
-</div>
+<h2 class="about-me-heading">
+Contact Info
+</h2>
+<p>Contact --- Contact --- Contact</p>
+
 
 <h2 class="about-me-heading">
 Education
