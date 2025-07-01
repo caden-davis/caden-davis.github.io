@@ -20,6 +20,17 @@
   }
 }
 
+// 1) Kill the flex container’s bottom margin entirely
+.about-me-flex {
+  margin-bottom: 0 !important;
+  padding-bottom: 0 !important;
+}
+
+// 2) Kill the next element’s top margin if you want them flush
+.about-me-flex + * {
+  margin-top: 0 !important;
+}
+
 .about-me-photo {
   width: 300px;
   max-width: 100%;
