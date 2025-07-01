@@ -10,9 +10,8 @@ classes: medium-font
 <br>
 
 <div class="about-me-flex">
-  <img src="/images/main_pic.jpg" alt="My photo" class="about-me-photo">
+  <img src="/images/profile7.jpg" alt="My photo" class="about-me-photo">
   <div class="about-me-text">
-  
     <h2 class="about-me-heading">
     About Me
     </h2>
