@@ -28,9 +28,9 @@ Contact Info
 </h2>
 <div class="about-me-contact-links">
   <ul class="horizontal-list">
-  <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope icon-pad-right icon-mail" aria-hidden="true"></i>{{ author.email }}</a></li>
-  <li class="author__desktop"><i class="fas fa-fw fa-location-dot icon-pad-right icon-location" aria-hidden="true"></i>{{ author.location }}</li>
-  <li><a href="https://www.linkedin.com/in/{{ author.linkedin }}"><i class="fab fa-fw fa-linkedin icon-pad-right" aria-hidden="true"></i>linkedin.com/in/{{ author.linkedin }}</a></li>
+  <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope icon-pad-right icon-mail" aria-hidden="true"></i>cdavis9@stanford.edu</a></li>
+  <li class="author__desktop"><i class="fas fa-fw fa-location-dot icon-pad-right icon-location" aria-hidden="true"></i>San Clemente, CA</li>
+  <li><a href="https://www.linkedin.com/in/caden-davis"><i class="fab fa-fw fa-linkedin icon-pad-right" aria-hidden="true"></i>linkedin.com/in/caden-davis</a></li>
   </ul>
 </div>
 
