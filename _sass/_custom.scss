@@ -81,6 +81,12 @@
 
 .about-me-contact-links {
   text-align: center;
+
+  a,
+  a:link,
+  a:visited {
+    text-decoration: none !important;
+  }
 }
 
 .horizontal-list {
@@ -133,4 +139,12 @@ a:focus {
     .not-on-mobile {
         display: none !important;
     }
+}
+
+.masthead {
+  a,
+  a:link,
+  a:visited {
+    text-decoration: none !important;
+  }
 }
