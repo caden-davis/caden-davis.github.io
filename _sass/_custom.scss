@@ -20,16 +20,16 @@
   }
 }
 
-// 1) Kill the flex container’s bottom margin entirely
-.about-me-flex {
-  margin-bottom: 0 !important;
-  padding-bottom: 0 !important;
-}
+// // 1) Kill the flex container’s bottom margin entirely
+// .about-me-flex {
+//   margin-bottom: 0 !important;
+//   padding-bottom: 0 !important;
+// }
 
-// 2) Kill the next element’s top margin if you want them flush
-.about-me-flex + * {
-  margin-top: 0 !important;
-}
+// // 2) Kill the next element’s top margin if you want them flush
+// .about-me-flex + * {
+//   margin-top: 0 !important;
+// }
 
 .about-me-photo {
   width: 300px;
@@ -45,6 +45,7 @@
 
 .about-me-text {
   flex: 1;
+  font-size: 16px;
 
   @media screen and (max-width: 768px) {
     text-align: left;              // or keep centered
