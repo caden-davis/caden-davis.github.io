@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About Me"
-author_profile: true
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
@@ -11,6 +11,7 @@ classes: medium-font
 <div class="about-me-flex">
   <img src="/images/profile5.jpg" alt="My photo" class="about-me-photo">
   <div class="about-me-text">
+    <br>
     <p>I'm an incoming M.S. student in Electrical Engineering at <a href="https://ee.stanford.edu/">Stanford University</a>. Within Stanford's EE department, I am split between the Communications &amp; Networking track and the Signal Processing &amp; Optimization track.</p>
     
     <p>I graduated with my B.S. in Electrical Engineering at the <a href="https://www.ee.ucla.edu/">University of California, Los Angeles</a> (UCLA) in Spring 2025, where I worked in the <a href="https://wireless.ee.ucla.edu/">Wireless Lab</a> under Professor Ian Roberts. There, I focused on millimeter-wave (mmWave) RF impairment correction algorithms as well as integrated sensing and communication (ISAC) on real-world phased array hardware.</p>
