@@ -10,7 +10,7 @@ classes: medium-font
 <br>
 
 <div class="about-me-flex">
-  <img src="/images/profile7.jpg" alt="My photo" class="about-me-photo">
+  <img src="/images/profile5.jpg" alt="My photo" class="about-me-photo">
   <div class="about-me-text">
     <h2 class="about-me-heading">
     About Me
@@ -19,7 +19,7 @@ classes: medium-font
     
     <p>I graduated with my B.S. in Electrical Engineering at the <a href="https://www.ee.ucla.edu/">University of California, Los Angeles</a> (UCLA) in Spring 2025, where I worked in the <a href="https://wireless.ee.ucla.edu/">Wireless Lab</a> under Professor Ian Roberts. There, I focused on millimeter-wave (mmWave) RF impairment correction algorithms as well as integrated sensing and communication (ISAC) on real-world phased array hardware.</p>
 
-    <p>Starting at Stanford University in Fall 2025, I'm looking forward to exploring methods from optimization and statistical inference to enhance the performance of modern wireless communication systems and extend their applications.</p>
+    <p>Starting at Stanford in Fall 2025, I'm looking forward to exploring methods from optimization and statistical inference to enhance the performance of modern wireless communication systems and extend their applications.</p>
   </div>
 </div>
 
