@@ -81,3 +81,14 @@
 .about-me-contact-links {
   text-align: center;
 }
+
+.horizontal-list {
+  list-style: none;      // remove bullets
+  margin: 0;             // reset default ul margin
+  padding: 0;            // reset default ul padding
+
+  display: flex;         // lay items out in a row
+  justify-content: space-between;  // spread them evenly across the container
+  align-items: center;   // vertically center (if items have varying height)
+  gap: 1rem;             // optional spacing between items
+}
