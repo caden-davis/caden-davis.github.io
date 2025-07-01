@@ -92,3 +92,20 @@
   align-items: center;   // vertically center (if items have varying height)
   gap: 1rem;             // optional spacing between items
 }
+
+.about-me-text > *:first-child {
+  margin-top: 0 !important;
+}
+
+a,
+a:link,
+a:visited {
+  color: inherit !important;
+  text-decoration: underline;  // keep the underline if you like, or remove this line
+}
+
+a:hover,
+a:focus {
+  text-decoration: none;
+  opacity: 0.8;
+}
