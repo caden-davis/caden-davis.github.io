@@ -94,6 +94,16 @@
   gap: 1rem;             // optional spacing between items
 }
 
+/* on mobile (≤ 768px) make it vertical */
+@media screen and (max-width: 768px) {
+  .horizontal-list {
+    flex-direction: column !important;
+    justify-content: flex-start !important;
+    align-items: flex-start !important;
+    gap: 0.5rem;  // optional tighter spacing
+  }
+}
+
 .about-me-text > *:first-child {
   margin-top: 0 !important;
 }
