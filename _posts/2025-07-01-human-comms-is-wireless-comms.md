@@ -1,7 +1,7 @@
 ---
 title: 'Human Comms == Wireless Comms'
-date: 2025-07-01
-permalink: /posts/2025/07/blog-post-template/
+date: 2025-07-02
+permalink: /posts/2025/07/human-comms-is-wireless-comms/
 tags:
   - communication
   - non-technical
