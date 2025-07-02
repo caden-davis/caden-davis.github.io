@@ -1,5 +1,5 @@
 ---
-title: 'Blog Post number 3'
+title: 'Blog Post Template'
 date: 2025-07-01
 permalink: /posts/2025/07/blog-post-template/
 tags:
@@ -8,8 +8,9 @@ tags:
 share: false
 read_time: false
 comments: false
+related: true
 layout: single
-
+description: "Meta-description for SEO"
 ---
 
 This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool. 
