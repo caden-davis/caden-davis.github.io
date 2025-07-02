@@ -1,5 +1,5 @@
 ---
-permalink: /about
+permalink: /about/
 title: "Caden N. Davis"
 author_profile: false
 redirect_from: 
