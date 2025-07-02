@@ -89,6 +89,11 @@
 //   }
 }
 
+.fa-linkedin,
+.fa-linkedin-square {
+color: $linkedin-color;
+}
+
 .horizontal-list {
   list-style: none;      // remove bullets
   margin: 0;             // reset default ul margin
