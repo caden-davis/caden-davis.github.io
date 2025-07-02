@@ -26,8 +26,8 @@ main:
   - title: "About"
     url: /about/
     
-  - title: "Resume"
-    url: /resume/
+  # - title: "Resume"
+  #   url: /resume/
 
   # - title: "Projects"
   #   url: /projects/
