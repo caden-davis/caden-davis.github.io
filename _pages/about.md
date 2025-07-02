@@ -3,7 +3,7 @@ permalink: /about
 title: "Caden N. Davis"
 author_profile: false
 redirect_from: 
-  - /about/
+  # - /about/
   - /about.html
 classes: medium-font
 ---
