@@ -20,6 +20,8 @@ classes: medium-font
     <p>I graduated with my B.S. in Electrical Engineering at the <a href="https://www.ee.ucla.edu/">University of California, Los Angeles</a> (UCLA) in Spring 2025, where I worked in the <a href="https://wireless.ee.ucla.edu/">Wireless Lab</a> under Professor Ian Roberts. There, I focused on millimeter-wave (mmWave) RF impairment correction algorithms as well as integrated sensing and communication (ISAC) on real-world phased array hardware.</p>
 
     <p>Starting at Stanford in Fall 2025, I'm looking forward to exploring methods from optimization and statistical inference to enhance the performance of modern wireless communication systems and extend their applications.</p>
+
+    <p>For Summer 2026, I am looking for internship opportunities in ... (industry, location, position)<\p>
   </div>
 </div>
 
