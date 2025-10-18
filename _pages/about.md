@@ -38,6 +38,7 @@ Contact Info
 Education
 </h2>
 <strong>Stanford University</strong>, Palo Alto, CA. <br>
+
 M.S. Electrical Engineering, started September 2025.
 
 <br>
