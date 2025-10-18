@@ -23,7 +23,7 @@ Headings are cool
 
 $$\pi = 3.14$$
 
-Let's talk more: $\pi = 3.1415926$
+Let's talk more: \( \pi = 3.1415926$ \)
 
 You can have many headings
 ======

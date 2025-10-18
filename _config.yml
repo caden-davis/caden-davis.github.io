@@ -205,7 +205,6 @@ incremental: false
 
 
 # Markdown Processing
-math: true
 kramdown:
   input: GFM
   hard_wrap: false
@@ -215,13 +214,6 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
-
-  math_engine: mathjax
-  math_engine_opts:
-    preview: false
-  math_delimiters:
-    block: ['$$', '$$']
-    inline: ['$', '$']
 
 
 # These settings control the types of collections used by the template
