@@ -30,7 +30,9 @@ redirect_from:
   </iframe>
 </div> -->
 
-Looking for internships for Summer 2026 in Austin, TX focused on wireless communications, radar, or embedded systems!
+<p style="text-align: center;">
+Looking for internships for Summer 2026 in Austin, TX focused on wireless communications, radar, or embedded systems.
+</p>
 
 <div class="resume-embed" style="border: 1px solid var(--global-border-color); border-radius: 0px; padding: 0px;">
   <iframe
