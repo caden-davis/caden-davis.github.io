@@ -52,30 +52,30 @@ GPA: 4.00 / 4.00, UCLA ECE Outstanding Bachelor of Science Award.
 Work Experience
 </h2>
 
-<strong>Apple</strong> | San Diego, CA | Summer 2025 <br>
+<strong>Apple</strong> <span>|</span> San Diego, CA <span>|</span> Summer 2025 <br>
 
 Cellular RF Software Intern, Modem Firmware Team
 
 <br>
 
-<strong>UCLA Wireless Lab</strong> | Los Angeles, CA | Fall 2023 - Spring 2025 <br>
+<strong>UCLA Wireless Lab</strong> <span>|</span> Los Angeles, CA <span>|</span> Fall 2023 - Spring 2025 <br>
 
 Undergraduate Researcher, mmWave Phased Arrays and Software-Defined Radios
 
 <br>
 
-<strong>Anduril Industries</strong> | Costa Mesa, CA | Summer 2024 <br>
+<strong>Anduril Industries</strong> <span>|</span> Costa Mesa, CA <span>|</span> Summer 2024 <br>
 
 Digital Signal Processing Intern, Electronic Warfare Team
 
 <br>
 
-<strong>Anduril Industries</strong> | Costa Mesa, CA | Summer 2023 <br>
+<strong>Anduril Industries</strong> <span>|</span> Costa Mesa, CA <span>|</span> Summer 2023 <br>
 
 Electrical Hardware Design Intern, Ground Systems Team
 
 <br>
 
-<strong>Viseon</strong> | Irvine, CA | Summer 2021 <br>
+<strong>Viseon</strong> <span>|</span> Irvine, CA <span>|</span> Summer 2021 <br>
 
 Embedded Imaging Software Intern, Surgical Imaging Team
